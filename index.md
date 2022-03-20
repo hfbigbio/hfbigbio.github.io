@@ -11,7 +11,11 @@ Despite the large scale improvement in natural language processing in fine-tunin
 # Where should I start?
 
 [Go to Github Repository](https://github.com/bigscience-workshop/biomedical).
+[Join the Discord Server](https://discord.gg/Cwf3nT3ajP).
 
+# What will I do during the hackathon?
+
+Implement standardized data loading scripts for a curated list of biomedical datasets.
 
 # When is the hackathon?
 
@@ -20,7 +24,7 @@ Between 2nd April 2022 to 15th April 2022.
 
 
 
-<!-- 
+<!--
 #
 
 > This is a blockquote following a header.
