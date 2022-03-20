@@ -6,11 +6,12 @@ layout: default
 
 # What is the goal ?
 
-Despite the large scale improvement in natural language processing in fine-tuning, few-shot and zero shot modeling approaches, the biomedical community suffers from a _dataset_ _debt_ problem. Our goal is to gather and collect a large set of biomedical datasets into consistent scehmas and formats for downstream tasks.
+Despite the large scale improvement in natural language processing in fine-tuning, few-shot and zero shot modeling approaches, the biomedical community suffers from a _dataset_ _debt_ problem. Our goal is to gather and collect a large set of biomedical datasets into consistent schemas and formats for downstream tasks.
 
 # Where should I start?
 
 [Go to Github Repository](https://github.com/bigscience-workshop/biomedical).
+
 [Join the Discord Server](https://discord.gg/Cwf3nT3ajP).
 
 # What will I do during the hackathon?
