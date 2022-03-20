@@ -2,19 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+# What is the goal ?
 
-There should be whitespace between paragraphs.
+Despite the large scale improvement in natural language processing in fine-tuning, few-shot and zero shot modeling approaches, the biomedical community suffers from a _dataset_ _debt_ problem. Our goal is to gather and collect a large set of biomedical datasets into consistent scehmas and formats for downstream tasks.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Where should I start?
 
-# Header 1
+[Go to Github Repository](https://github.com/bigscience-workshop/biomedical).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+# When is the hackathon?
+
+Between 2nd April 2022 to 15th April 2022.
+
+
+
+
+<!-- 
+#
 
 > This is a blockquote following a header.
 >
@@ -120,4 +127,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
