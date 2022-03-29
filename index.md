@@ -6,7 +6,13 @@ layout: default
 
 # What is the goal ?
 
-Despite the large scale improvement in natural language processing in fine-tuning, few-shot and zero shot modeling approaches, the biomedical community suffers from a _dataset_ _debt_ problem. Our goal is to gather and collect a large set of biomedical datasets into consistent schemas and formats for downstream tasks.
+Large-scale language modeling and [natural language prompting](http://pretrain.nlpedia.ai/) have demonstrated exciting capabilities for few and zero shot learning in NLP.  However, translating these successes to specialized domains such as biomedicine remains challenging, due in part to biomedical NLP’s significant dataset debt -- the technical costs associated with datasets that are not consistently documented or easily incorporated into popular machine learning frameworks. To help address these challenges, we are launching a hackathon to create an open source, community resource of over 150 biomedical datasets. We need your help! 
+
+### Our goals
+
+*   Provide lightweight, programmatic access to biomedical datasets via the [Datasets](https://github.com/huggingface/datasets) API
+*   Better documentation for dataset provenance, licensing, and other key [attributes](https://arxiv.org/abs/1803.09010) 
+*   Easier generation of [prompt-based supervision](https://arxiv.org/abs/2202.01279) and dataset remixing using schemas standardized by task type
 
 # Where should I start?
 
@@ -14,15 +20,20 @@ Despite the large scale improvement in natural language processing in fine-tunin
 
 [Join the Discord Server](https://discord.gg/Cwf3nT3ajP).
 
+The hackathon runs from **2nd April 2022 - 15th April 2022**.
+We have detailed instructions for participation on our GitHub page. 
+
+
 # What will I do during the hackathon?
 
-Implement standardized data loading scripts for a curated list of biomedical datasets.
+We’re asking participants to implement standardized data loading scripts for a curated list of biomedical datasets. Visit our [project board](https://github.com/orgs/bigscience-workshop/projects/6) to volunteer for specific datasets. 
 
-# When is the hackathon?
-
-Between 2nd April 2022 to 15th April 2022.
+Implementing 3 or more dataset loaders will guarantee authorship on our forthcoming academic paper. We recognize that some datasets require more effort than others, so please reach out if you have questions. Our goal is to be inclusive with credit!  
 
 
+# What is the BigScience initiative?
+
+Read more about it [here](https://bigscience.huggingface.co/).
 
 
 <!--
