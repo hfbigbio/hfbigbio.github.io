@@ -23,11 +23,11 @@ Large-scale language modeling and [natural language prompting](http://pretrain.n
 The hackathon runs from **2nd April 2022 - 15th April 2022**.
 We have detailed instructions for participation on our GitHub page. 
 
-### Come meet the team and ask us questions.
+<!-- ### Come meet the team and ask us questions.
 
 When: Apr 6, 2022 11:00 AM Eastern Time (US and Canada) 
 
-Register [here](https://virginia.zoom.us/meeting/register/tJwsf-qqpzsvHdbe6tWsAmRjEvf1yIvZ8ODL)
+Register [here](https://virginia.zoom.us/meeting/register/tJwsf-qqpzsvHdbe6tWsAmRjEvf1yIvZ8ODL) -->
 
 
 # What will I do during the hackathon?
