@@ -4,6 +4,15 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
+### Hackathon update:
+
+![progress claimed](https://progress-bar.dev/88/?title=Datasets%20Claimed)
+
+![tier1](https://progress-bar.dev/100/?title=Milestone%201%20(30%20Datasets%20Completed))
+![tier2](https://progress-bar.dev/77/?title=Milestone%202%20(60%20Datasets%20Completed))
+![tier3](https://progress-bar.dev/46/?title=Milestone%203%20(100%20Datasets%20Completed))
+![tier4](https://progress-bar.dev/28/?title=Milestone%204%20(All%20Datasets%20Completed))
+
 # What is the goal ?
 
 Large-scale language modeling and [natural language prompting](http://pretrain.nlpedia.ai/) have demonstrated exciting capabilities for few and zero shot learning in NLP.  However, translating these successes to specialized domains such as biomedicine remains challenging, due in part to biomedical NLP’s significant dataset debt -- the technical costs associated with datasets that are not consistently documented or easily incorporated into popular machine learning frameworks. To help address these challenges, we are launching a hackathon to create an open source, community resource of over 150 biomedical datasets. We need your help! 
