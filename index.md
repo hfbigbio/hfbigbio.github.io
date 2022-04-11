@@ -6,12 +6,12 @@ layout: default
 
 ### Hackathon update:
 
-![progress claimed](https://progress-bar.dev/89/?title=Datasets%20Claimed)
+![progress claimed](https://progress-bar.dev/92/?title=Datasets%20Claimed)
 
 ![tier1](https://progress-bar.dev/100/?title=Milestone%201%20(30%20Datasets%20Completed))
-![tier2](https://progress-bar.dev/88/?title=Milestone%202%20(60%20Datasets%20Completed))
-![tier3](https://progress-bar.dev/53/?title=Milestone%203%20(100%20Datasets%20Completed))
-![tier4](https://progress-bar.dev/32/?title=Milestone%204%20(All%20Datasets%20Completed))
+![tier2](https://progress-bar.dev/98/?title=Milestone%202%20(60%20Datasets%20Completed))
+![tier3](https://progress-bar.dev/59/?title=Milestone%203%20(100%20Datasets%20Completed))
+![tier4](https://progress-bar.dev/36/?title=Milestone%204%20(All%20Datasets%20Completed))
 
 
 # What is the goal ?
